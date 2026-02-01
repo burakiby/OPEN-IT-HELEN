@@ -1,10 +1,9 @@
-# OPEN-IT-HELEN
+# If You Are Ready
 VALENTINES
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Be My Valentine 💘</title>
+  <title>Be My Valentine Helenito 💘</title>
   <style>
     body {
       font-family: Arial, sans-serif;
